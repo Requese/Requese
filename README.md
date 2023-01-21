@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Requese
-- 👀 I work in Java, Python, Bash/SH and SQL language
+- 👋 Hi, I’m @Requese!
+- 👀 I work in Java, Python, Bash/SH and SQL language.
 - 🌱 I am engaged in the of databases, DevOps & QA engeneer.
 
 <!---
