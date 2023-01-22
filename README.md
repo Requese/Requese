@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Requese!
-- 👀 I work in Java, Python, Bash/SH and SQL language.
-- 🌱 I am engaged in the of databases, DevOps & QA engeneer.
+:bowtie: Hi, I’m @Requese!
+
+:atom: I work in Java, Python, Bash/SH and SQL language.
+
+:octocat: I am engaged in the of databases, DevOps & QA engeneer.
+
+:suspect: To contact: Discord Requese#3674
+
+✨✨
 
 <!---
 Requese/Requese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
